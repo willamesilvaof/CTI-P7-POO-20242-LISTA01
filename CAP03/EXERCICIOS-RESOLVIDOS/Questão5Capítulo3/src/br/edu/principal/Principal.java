@@ -4,7 +4,7 @@ public class Principal {
 
 	public static void main(String[] args) {
 		double sal, perc, aumento, novosal;
-		sal = 100;
+		sal = 1000;
 		perc = 25;
 		aumento = sal * perc/100;
 		System.out.println("O Aumento foi de: " +aumento+"R$");
