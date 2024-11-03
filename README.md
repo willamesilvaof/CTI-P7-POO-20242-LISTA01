@@ -25,9 +25,6 @@ T3: Capítulos 6 e 8 (Exercícios Selecionados)
 
 Cada conjunto de exercícios está organizado em pastas separadas por capítulos.
 
-Requisitos
-
-	•	Java Development Kit (JDK) versão 8 ou superior.
 
 Referência
 
