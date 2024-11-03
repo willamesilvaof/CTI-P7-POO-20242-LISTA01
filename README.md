@@ -30,5 +30,3 @@ Referência
 
 Livro: Fundamentos da Programação de Computadores (Algoritmos, Pascal, C/C++ (Padrão ANSI) e Java)
 Autores: Ana Fernanda Gomes Ascencio e Edilene Aparecida Veneruchi de Campos
-
-Esse README fornece uma visão clara sobre o conteúdo organizado no repositório.
