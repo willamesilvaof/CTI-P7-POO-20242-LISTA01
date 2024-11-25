@@ -25,20 +25,20 @@ Autores: Ana Fernanda Gomes Ascencio e Edilene Aparecida Veneruchi de Campos
 
 ### Passos para executar no terminal
 
-**1. Clone este repositório:*
+1. Clone este repositório:
    Caso ainda não tenha o repositório, você pode cloná-lo usando o comando:
    ```bash
    git clone https://github.com/seu-usuario/seu-repositorio.git
 
-**2. Navegue até o diretório do projeto:**
+2. Navegue até o diretório do projeto:
 
 cd CTI-P7-POO-20242-LISTA01
 
-**3. Compile o código (se necessário):**
+3. Compile o código (se necessário):
 
 javac Principal.java
 
-**4. Execute o programa:**
+4. Execute o programa:
 
 java Principal.java
 
