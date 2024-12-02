@@ -2,13 +2,53 @@
 
 Este repositório contém exercícios e exemplos da disciplina de Programação Orientada a Objetos (POO), desenvolvidos em Java. As questões são baseadas nos capítulos do livro Fundamentos da Programação de Computadores (Algoritmos, Pascal, C/C++ (Padrão ANSI) e Java), de Ana Fernanda Gomes Ascencio e Edilene Aparecida Veneruchi de Campos.
 
-Estrutura do Repositório
+# Resumo dos Capítulos
 
-T1: Capítulo 3 (Estrutura Sequencial)
+## T1: Capítulo 3 (Estrutura Sequencial)
 
-	•	Conteúdo: Todos os exercícios resolvidos do Capítulo 3.
-	•	Tópicos: Conceitos de estrutura sequencial em Java, introduzindo operações básicas e manipulação de variáveis.
- 
+- **Conteúdo**: Todos os exercícios resolvidos do Capítulo 3.
+- **Tópicos**:
+  - Conceitos de estrutura sequencial em Java.
+  - Introdução às operações básicas e manipulação de variáveis.
+  - Exemplos de cálculos simples e exibição de resultados.
+
+---
+
+## T1: Capítulo 4 (Estrutura Condicional)
+
+- **Conteúdo**: Todos os exercícios resolvidos do Capítulo 4.
+- **Tópicos**:
+  - Conceitos de estruturas condicionais em Java (como `if`, `else`, `else if`).
+  - 
+---
+
+## T1: Capítulo 5 (Estrutura de Repetição)
+
+- **Conteúdo**: Todos os exercícios resolvidos do Capítulo 5.
+- **Tópicos**:
+  - Conceitos de estruturas de repetição em Java (como `for`, `while`, `do-while`).
+  - Utilização dessas estruturas para repetir tarefas de forma eficiente.
+
+---
+
+## T1: Capítulo 6 (Vetor)
+
+- **Conteúdo**: Todos os exercícios resolvidos do Capítulo 6.
+- **Tópicos**:
+  - Introdução ao conceito de vetores (arrays) em Java.
+  - Como declarar, inicializar e manipular vetores.
+    
+---
+
+## T1: Capítulo 8 (Sub-Rotina)
+
+- **Conteúdo**: Todos os exercícios resolvidos do Capítulo 8.
+- **Tópicos**:
+  - Introdução ao conceito de sub-rotinas (métodos ou funções) em Java.
+  - Como declarar e usar métodos para modularizar o código.
+  
+---
+
 Cada conjunto de exercícios está organizado em pastas separadas por capítulos.
 
 
