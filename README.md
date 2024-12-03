@@ -205,7 +205,7 @@ Você agora tem uma classe Java com o método `main`, que é o ponto de entrada 
 
 ## Compilando e Executando seu Código Java
 
-1. Digite o seguinte código dentro da classe `Main`:
+1. Digite o código que está dentro do EXE01, em algum capítulo dentro da classe `Main`:
    ```java
    public class Main {
        public static void main(String[] args) {
