@@ -189,15 +189,19 @@ Agora, o Eclipse está configurado para usar o JDK.
 ## Criando seu Primeiro Projeto Java
 
 1. Abra o Eclipse e clique em **File > New > Java Project**.
-2. Dê um nome ao seu projeto, por exemplo, `MeuPrimeiroProjeto`.
+2. Dê um nome ao seu projeto, por exemplo, `ProjetoJava`.
 3. Clique em **Finish**.
 
-Agora, você criou um novo projeto Java! Vamos criar uma classe Java dentro dele.
+Agora, você criou um novo projeto Java! Vamos criar um pacote dentro dele.
 
 1. Clique com o botão direito no nome do projeto em **Project Explorer**.
-2. Selecione **New > Class**.
-3. Dê o nome da classe, como `Main`, e marque a opção **public static void main(String[] args)**.
-4. Clique em **Finish**.
+2. Depois em `Package`
+3. De o nome de `br.edu.principal`
+
+  Agora, você criou um pacote! Vamos criar uma classe Java dentro dele.
+1. Selecione **New > Class**.
+2. Dê o nome da classe, como `Principal`, e marque a opção **public static void main(String[] args)**.
+3. Clique em **Finish**.
 
 Você agora tem uma classe Java com o método `main`, que é o ponto de entrada de qualquer aplicação Java.
 
